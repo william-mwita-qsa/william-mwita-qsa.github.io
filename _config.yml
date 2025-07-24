@@ -1,0 +1,28 @@
+
+title: "William Mwita | Quantitative Systems Analyst"
+email: "william.mwita.qsa@gmail.com"
+description: >- 
+  FinTech Analytics | Bayesian Modeling | Risk Systems Design
+url: "https://william-mwita-qsa.github.io"
+github_username: william-mwita-qsa
+minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+author:
+  name: "William Mwita"
+  avatar: "/assets/images/profile.png"
+  bio: "Quantitative Systems Analyst | FinTech Risk Modeling | Bayesian Thinker"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:william.mwita.qsa@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/william-mwita-qsa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/williammwitaqsa"
